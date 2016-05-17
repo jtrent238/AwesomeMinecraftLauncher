@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "1.7.10",
+      "name" : "test",
+      "version" : "2016-05-17-19-52-13",
+      "location" : "test.json",
+      "priority" : 1
+    }
+  ]
+}
