@@ -7,6 +7,104 @@
       "version" : "2016-05-17-19-52-13",
       "location" : "test.json",
       "priority" : 1
+    },
+    {
+      "title" : "1.7.5",
+      "name" : "1.7.5",
+      "version" : "2016-05-17-20-07-53",
+      "location" : "1.7.5.json",
+      "priority" : 1
+    },
+    {
+      "title" : "1.8.1",
+      "name" : "1.8.1",
+      "version" : "2016-05-17-20-08-08",
+      "location" : "1.8.1.json",
+      "priority" : 1
+    },
+    {
+      "title" : "1.8.2",
+      "name" : "1.8.2",
+      "version" : "2016-05-17-20-08-12",
+      "location" : "1.8.2.json",
+      "priority" : 0
+    },
+    {
+      "title" : "1.8.3",
+      "name" : "1.8.3",
+      "version" : "2016-05-17-20-08-15",
+      "location" : "1.8.3.json",
+      "priority" : 0
+    },
+    {
+      "title" : "1.8.4",
+      "name" : "1.8.4",
+      "version" : "2016-05-17-20-08-18",
+      "location" : "1.8.4.json",
+      "priority" : 0
+    },
+    {
+      "title" : "1.8.5",
+      "name" : "1.8.5",
+      "version" : "2016-05-17-20-08-22",
+      "location" : "1.8.5.json",
+      "priority" : 0
+    },
+    {
+      "title" : "1.8.6",
+      "name" : "1.8.6",
+      "version" : "2016-05-17-20-08-25",
+      "location" : "1.8.6.json",
+      "priority" : 0
+    },
+    {
+      "title" : "1.8.7",
+      "name" : "1.8.7",
+      "version" : "2016-05-17-20-08-28",
+      "location" : "1.8.7.json",
+      "priority" : 0
+    },
+    {
+      "title" : "1.8.8",
+      "name" : "1.8.8",
+      "version" : "2016-05-17-20-08-31",
+      "location" : "1.8.8.json",
+      "priority" : 0
+    },
+    {
+      "title" : "1.8.9",
+      "name" : "1.8.9",
+      "version" : "2016-05-17-20-08-35",
+      "location" : "1.8.9.json",
+      "priority" : 0
+    },
+    {
+      "title" : "1.8",
+      "name" : "1.8",
+      "version" : "2016-05-17-20-08-05",
+      "location" : "1.8.json",
+      "priority" : 0
+    },
+    {
+      "title" : "1.9.1",
+      "name" : "1.9.1",
+      "version" : "2016-05-17-20-08-41",
+      "location" : "1.9.1.json",
+      "priority" : 0
+    },
+    {
+      "title" : "1.9.2",
+      "name" : "1.9.2",
+      "version" : "2016-05-17-20-08-44",
+      "location" : "1.9.2.json",
+      "priority" : 0
+    },
+    {
+      "title" : "1.9",
+      "name" : "1.9",
+      "version" : "2016-05-17-20-08-38",
+      "location" : "1.9.json",
+      "priority" : 0
     }
   ]
 }
