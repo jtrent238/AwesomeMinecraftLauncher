@@ -3,9 +3,9 @@
   "packages" : [
     {
       "title" : "1.7.10",
-      "name" : "test",
+      "name" : "1.7.10",
       "version" : "2016-05-17-19-52-13",
-      "location" : "test.json",
+      "location" : "1.7.10.json",
       "priority" : 1
     },
     {
